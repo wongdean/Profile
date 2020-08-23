@@ -1,3 +1,5 @@
+# custom proxy rule
+
 DOMAIN-SUFFIX,rescuetime.com // rescuetime
 DOMAIN-SUFFIX,scootersoftware.com// BeyondCompare
 DOMAIN-SUFFIX,kaggle.com // Kaggle

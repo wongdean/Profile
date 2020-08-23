@@ -1,4 +1,6 @@
+# custome download
+
 # Dropbox
-PROCESS-NAME,Dropbox
+PROCESS-NAME,dropbox
 # Edge download
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
