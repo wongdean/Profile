@@ -14,3 +14,10 @@ DOMAIN-SUFFIX,ldqk.org // 软件下载网站
 DOMAIN-SUFFIX,masuit.com
 DOMAIN-SUFFIX,ionemanhua.com
 DOMAIN-SUFFIX,maxmind.com //ip库下载
+
+# ByteDance
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,bdurl.net
